@@ -3,6 +3,6 @@
 
 > Controls
 
-> WASD - Move
+WASD - Move
 
-> Space - Collect
+Space - Collect
